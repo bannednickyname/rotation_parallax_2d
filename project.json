@@ -1,0 +1,78 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "图片旋转视差效果，第一版只能修改背景图片和模块图片",
+	"file" : "rotation_parallax.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"bgcolor" : 
+			{
+				"index" : 5,
+				"order" : 105,
+				"text" : "背景色",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"schemecolor" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"userpic1" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "旋转模块图片1",
+				"type" : "file",
+				"value" : ""
+			},
+			"userpic2" : 
+			{
+				"index" : 1,
+				"order" : 101,
+				"text" : "旋转模块图片2",
+				"type" : "file",
+				"value" : ""
+			},
+			"userpic3" : 
+			{
+				"index" : 2,
+				"order" : 102,
+				"text" : "旋转模块图片3",
+				"type" : "file",
+				"value" : ""
+			},
+			"userpic4" : 
+			{
+				"index" : 3,
+				"order" : 103,
+				"text" : "旋转模块图片4",
+				"type" : "file",
+				"value" : ""
+			},
+			"userpic5" : 
+			{
+				"index" : 4,
+				"order" : 104,
+				"text" : "旋转模块图片5",
+				"type" : "file",
+				"value" : ""
+			}
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Pixel art" ],
+	"title" : "旋转视差2d",
+	"type" : "web",
+	"version" : 1,
+	"visibility" : "public",
+	"workshopid" : "3497636129",
+	"workshopurl" : "steam://url/CommunityFilePage/3497636129"
+}
